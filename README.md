@@ -88,6 +88,23 @@ Group2: https://ms2lda.org/basicviz/summary/2991/
 
 ## matchms
 
+Download the “**matchms_live_coding**” folder from the shared Google Drive.
+https://drive.google.com/drive/folders/1qFwrewKCw80whQoZItZrxvlp6Gx7BMDL?usp=sharing
+(contains the pre-trained MS2DeepScore model from  https://zenodo.org/record/8274763)     
+ 
+
+**If you have no/little experience with Python:**
+
+Make sure you have a Google account and can log into Google Colab (https://colab.research.google.com/).
+Ideally, move the  “matchms_live_coding” folder onto your own Google Drive.
+ 
+
+**If you have experience with Python and Environments:**
+(and want to run things on your own machine)
+
+Python Environment with ms2deepscore >= 0.5 and matchms >= 0.22
+(and Jupyter notebook  or Jupyter lab)
+
 ## Statistics
 
 Example jupyter notebooks used for data analysis are available in the subfolder [notebooks](https://github.com/ssi-dk/CD-MRG-metabolomics_summerschool_2023/tree/main/notebooks). 
